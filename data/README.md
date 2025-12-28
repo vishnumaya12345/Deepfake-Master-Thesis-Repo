@@ -2,14 +2,14 @@
 
 Datasets are NOT included in this public repository because they contain real faces and have licensing/access restrictions.
 
-## Expected folder structure (example)
-
+Expected folder structure:
 data/
-├─ ff++_c40/
-├─ celebdf/
-├─ custom_swap_1src/
-├─ custom_swap_5src/
-└─ custom_swap_10src/
+  ff++_c40/
+  celebdf/
+  custom_swap_1src/
+  custom_swap_5src/
+  custom_swap_10src/
+
 
 ## FaceForensics++ (FF++, C40)
 Access to FaceForensics++ must be requested from the official authors (request form and instructions are provided in the official repository):
@@ -31,3 +31,4 @@ Place them under:
 - `data/custom_swap_1src/`
 - `data/custom_swap_5src/`
 - `data/custom_swap_10src/`
+
